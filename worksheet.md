@@ -66,11 +66,11 @@ the exchange amounts for the following inputs:
   28749.971250 JPY     // output copied from compiler
 
   b) $1,000.52
-  711.369720 GBP
+  711.369720 GBP           // output copied from compiler
   114944.740200 JPY   
 
   c) $968,410.12
-    688.248000 GBP
+    688.248000 GBP           // output copied from compiler
     111208.680000 JPY
 
 
@@ -80,7 +80,8 @@ to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
 
-
+No , becasue the INT can store upto 32bit and the given number is greater than 32bit
+and 32bit cannot hold a value that high.
 
 
 7. Mixed types
