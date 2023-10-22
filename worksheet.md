@@ -11,6 +11,9 @@ was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
 
+Today is 2023/10/22
+Your birthday was 1941/09/09
+Hello, DennisRitchie.  You are 0 years, 0 weeks, and 0 days old today
 
 
 
@@ -18,7 +21,9 @@ program on the appropriate inputs and enter your solution here.
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
 
-
+Today is 2023/10/22
+Your birthday was 1950/12/30
+Hello, BjarneStroustrup.  You are 0 years, 0 weeks, and 0 days old today
 
 
 3. Software testing often involves testing code with known
@@ -37,19 +42,19 @@ results you observe.
   size: 1 byte
   range: -128 to 127
 * `short int`
-  size:
-  range:
+  size: 2 byte 
+  range: -32,768 tp 32,767
 * `int`
-  size:
-  range:
+  size: 4 bytes 
+  range: -2,147,483,648 to 2,147,483,647
 * `long int`
-  size:
-  range:
+  size: 4 byte 
+  range: -2,147,483,648 to 2,147,483,647
 * `float`
-  size:
+  size: 4 bytes 
   range: 7 digits of accuracy
 * `double`
-  size:
+  size: 8 bytes 
   range: 15 digits of accuracy
 
 
@@ -78,10 +83,13 @@ Why or why not?
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
 
+   The area is 0.000000 square units.
+    it is incorrect
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
 
+  The area is 0.000000 square units.
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
