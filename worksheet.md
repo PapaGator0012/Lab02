@@ -2,7 +2,7 @@
 # Computer Science I 
 ## Lab 2.0 Worksheet
 
-Name(s) and Login(s):
+Name(Syed Hassam Jan) and Login(s):
 
 
 
