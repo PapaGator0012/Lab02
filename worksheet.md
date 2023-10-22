@@ -70,7 +70,8 @@ the exchange amounts for the following inputs:
   114944.740200 JPY   
 
   c) $968,410.12
-
+    688.248000 GBP
+    111208.680000 JPY
 
 
 6. Suppose that you had used only `int` types
