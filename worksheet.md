@@ -61,7 +61,9 @@ results you observe.
 5. Use your working currency conversion to determine
 the exchange amounts for the following inputs:
 
-  a) $250.25
+  a) $250.25 
+   177.927750 GBP
+  28749.971250 JPY
 
   b) $1,000.52
 
@@ -93,3 +95,6 @@ Does the program give correct results?  Why not?
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+  
+  area=1/2*(base*height)
+  printf("%lf,area)
