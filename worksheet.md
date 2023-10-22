@@ -33,7 +33,15 @@ program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
 
+Example 1: Bad input: hassam 1945 7 
+Result : Today is 2023/10/22
+Your birthday was
+Hello , hassam. You are 0 years , 0 weeks , and 0 days old today.
 
+Example 2: Bad input : 777 1999 5
+Result : Today is 2023/10/22
+Your birthday was
+Hello , 777. You are 0 years , 0 weeks , and 0 days old today
 
 
 4. Complete all the size and range entries below.
