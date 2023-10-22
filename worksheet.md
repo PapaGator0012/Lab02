@@ -63,9 +63,11 @@ the exchange amounts for the following inputs:
 
   a) $250.25 
    177.927750 GBP
-  28749.971250 JPY
+  28749.971250 JPY     // output copied from compiler
 
   b) $1,000.52
+  711.369720 GBP
+  114944.740200 JPY   
 
   c) $968,410.12
 
