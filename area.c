@@ -1,5 +1,5 @@
 /**
- * Author: Chris Bourke
+ * Author: 
  * 
  * This program prompts the user to enter the
  * base and the height of a triangle and computes
